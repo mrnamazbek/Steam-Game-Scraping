@@ -1,0 +1,34 @@
+Essential Columns for Analysis
+These columns are useful for gaining insights into trends, popularity, and performance metrics:
+
+1. Identifiers
+    AppID: Unique identifier for each game, crucial for tracking individual entries.
+    Name: Name of the game, essential for human-readable insights.
+
+2. Release and Time Metrics
+    Release Year: Understanding trends in game releases over time.
+    Average playtime forever: Indicates how much time players typically spend on the game.
+    Median playtime forever: Provides a more robust measure of central tendency for playtime.
+
+3. Popularity Metrics
+    Positive and Negative: Number of user reviews, which reflect the popularity and reception of the game.
+    Recommendations: Indicates the community's overall reception of the game.
+    Peak CCU: Peak concurrent users, a strong indicator of a game's popularity.
+
+4. Monetization Metrics
+    Price: The cost of the game, critical for understanding monetization strategies.
+    Estimated owners: Range of estimated ownership, reflecting the game’s reach.
+
+5. Categorical Information
+    Genres: Helps identify the type of game (e.g., Action, RPG) and analyze trends or preferences.
+    Categories: Broad tags describing game features like single-player, multiplayer, etc.
+    Developers: Key for identifying trends across game development studios.
+    Publishers: Useful for analyzing which publishers dominate specific markets.
+
+6. Quality Metrics
+    Metacritic score: Aggregated critic score, indicative of game quality.
+    Achievements: Reflects the level of player engagement a game offers.
+
+7. Localization
+    Supported languages: Indicates the accessibility of the game to global audiences.
+    Full audio languages: Helps analyze localization efforts.

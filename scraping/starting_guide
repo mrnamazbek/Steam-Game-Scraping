@@ -1,0 +1,13 @@
+Requisites 🔧
+
+Pyhton 3.8
+
+requests and argparse.
+
+
+pip3 install requests argparse
+
+
+Start generating data simply with:
+
+python SteamGamesScraper.py --limit 2000
